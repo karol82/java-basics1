@@ -15,10 +15,7 @@ public class MyFirstClass implements MyFirstInterface { //implements by zaimplem
         System.out.println("FirstField = " + firstField);
         System.out.println("FirstField2 = " + firstField2);
 
-    @Override
-            public void run2(){
-
         }
-    }
+
 
 }
